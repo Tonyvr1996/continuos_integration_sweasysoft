@@ -1,0 +1,1 @@
+# continuos_integration_sweasysoft
